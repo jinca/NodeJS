@@ -1,0 +1,15 @@
+{
+  "name": "lodash_module",
+  "version": "1.0.0",
+  "description": "\"Starting with npm on Fedora and GNOME\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Julita Inca\"",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "nodemon": "^1.12.0"
+  }
+}
